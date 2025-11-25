@@ -1,0 +1,5 @@
+Usuario ingresado correctamente.
+Contraseña ingresada correctamente.
+Click en login realizado.
+Login exitoso, página inventory.html cargada.
+Captura guardada en evidencias/login/login_exitoso.png

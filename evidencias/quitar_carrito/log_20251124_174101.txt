@@ -1,0 +1,5 @@
+Login exitoso.
+Producto agregado al carrito.
+Producto removido del carrito.
+Contador del carrito actualizado correctamente.
+Captura guardada en evidencias/quitar_carrito/producto_quitado.png

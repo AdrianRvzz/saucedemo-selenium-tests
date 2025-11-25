@@ -1,0 +1,24 @@
+Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[data-test='add-to-cart-sauce-labs-backpack']"}
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff623eca235
+	0x7ff623c22630
+	0x7ff6239b16dd
+	0x7ff623a0a27e
+	0x7ff623a0a58c
+	0x7ff623a5ed77
+	0x7ff623a5baba
+	0x7ff6239fb0ed
+	0x7ff6239fbf63
+	0x7ff623ef5d60
+	0x7ff623eefe8a
+	0x7ff623f11005
+	0x7ff623c3d71e
+	0x7ff623c44e1f
+	0x7ff623c2b7c4
+	0x7ff623c2b97f
+	0x7ff623c118e8
+	0x7ffd77c8e8d7
+	0x7ffd78bcc53c
+

@@ -1,0 +1,4 @@
+Login exitoso.
+Producto 'Sauce Labs Backpack' agregado al carrito.
+Contador del carrito actualizado correctamente.
+Captura guardada en evidencias/agregar_carrito/producto_agregado.png

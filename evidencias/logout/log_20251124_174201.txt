@@ -1,0 +1,3 @@
+Login exitoso.
+Logout exitoso.
+Captura guardada en evidencias/logout/logout_exitoso.png

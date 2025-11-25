@@ -1,0 +1,3 @@
+Login exitoso.
+Filtro 'Price (low to high)' aplicado.
+Captura guardada en evidencias/filtrado_productos/filtro_aplicado.png
